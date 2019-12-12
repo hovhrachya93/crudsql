@@ -1,0 +1,7 @@
+{
+    "mysqlConnectionLimit": 10,
+    "mysqlHost": "node.voznisoft.com",
+    "mysqlUser": "nodejsuser",
+    "mysqlPassword": "fTsvvQHyCIBo0r2R",
+    "mysqlDatabase": "nodejscoursedb_8"
+}
